@@ -35,6 +35,8 @@ The linked list with nodes N = 3 is given. Here, x = 2 which means last node is 
 Testcase 2: N = 4 and x = 0, which means lastNode->next = NULL, thus the Linked list does not contains any loop.
 */
 
+
+/*
 struct Node {
   int data;
   struct Node *next;

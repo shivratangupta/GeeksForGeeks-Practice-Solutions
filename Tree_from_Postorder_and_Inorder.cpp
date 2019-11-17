@@ -50,7 +50,9 @@ Testcase 1:
       8
 */
 
-{
+
+/*
+struct Node{
     int data;
     struct Node* left;
     struct Node* right;
